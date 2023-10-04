@@ -1,2 +1,2 @@
 # innovate
-This is project is build in wordpress
+https://ahhmed-dotcom.github.io/innovate/
